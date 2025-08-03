@@ -1,9 +1,9 @@
-# Diabetes Predictor
+# Epilots: Hard Landing Predictor
 
-Predicts diabetes outcomes based on health metrics using ML models.
+Predicts whether a flight will result in a hard landing using flight telemetry data.
 
 ## How to Run
 ```bash
 pip install -r requirements.txt
-python diabetes_model.py
+python hard_landing_model.py
 ```
